@@ -11,6 +11,7 @@ body {
   color: #222;
   background: #f7f5f0;
 }
+
 /* Link Styles */
 
 a {
@@ -112,8 +113,8 @@ header .profile-image:hover {
 
 .photos {
   border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
+  border-radius: 15px;
+  padding: 0px;
   width: 180px;
   margin: 10px;
 }
